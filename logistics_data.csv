@@ -1,0 +1,21 @@
+delivery_id,route_name,fuel_type,distance_km,load_weight_ton,traffic_condition
+D001,Jakarta - Bekasi,Diesel,42.5,8.2,Heavy
+D002,Jakarta - Depok,Gasoline,35.0,5.5,Moderate
+D003,Jakarta - Tangerang,Electric,28.3,3.1,Light
+D004,Bekasi - Bogor,Diesel,67.8,10.0,Heavy
+D005,Depok - Tangerang,Gasoline,55.2,6.8,Moderate
+D006,Jakarta - Bogor,Electric,60.1,4.5,Light
+D007,Tangerang - Bekasi,Diesel,50.4,9.3,Heavy
+D008,Bogor - Depok,Gasoline,30.7,7.0,Moderate
+D009,Jakarta - Bekasi,Electric,42.5,2.8,Light
+D010,Bekasi - Tangerang,Diesel,48.9,11.5,Heavy
+D011,Depok - Bogor,Gasoline,40.0,6.2,Moderate
+D012,Jakarta - Tangerang,Electric,28.3,3.9,Light
+D013,Tangerang - Bogor,Diesel,75.6,12.0,Heavy
+D014,Jakarta - Depok,Gasoline,35.0,5.0,Light
+D015,Bekasi - Depok,Electric,22.1,2.5,Moderate
+D016,Bogor - Jakarta,Diesel,60.1,8.7,Heavy
+D017,Tangerang - Jakarta,Gasoline,28.3,4.3,Moderate
+D018,Depok - Jakarta,Electric,35.0,3.6,Light
+D019,Bekasi - Jakarta,Diesel,42.5,9.8,Heavy
+D020,Bogor - Tangerang,Gasoline,75.6,7.4,Moderate
